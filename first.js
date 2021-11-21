@@ -1,0 +1,1 @@
+findlementbyid("r") = "yes"
