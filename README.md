@@ -1,2 +1,4 @@
 # django_second
-django_second_with_graph_ql
+
+django_second_with_graphql!
+added
